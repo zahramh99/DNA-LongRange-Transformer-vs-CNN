@@ -1,0 +1,40 @@
+# Core ML/DL
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.35.0
+tokenizers>=0.15.0
+
+# Data handling
+numpy>=1.23.0
+pandas>=1.5.0
+h5py>=3.8.0
+pyarrow>=12.0.0
+
+# Genomic specific
+kipoiseq>=0.4.0
+biopython>=1.81
+pyranges>=0.0.120
+pysam>=0.21.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Metrics and stats
+scikit-learn>=1.2.0
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
+click>=8.1.0
+tabulate>=0.9.0
+
+# Jupyter (optional)
+jupyter>=1.0.0
+ipykernel>=6.20.0
+
+# Downloading data
+requests>=2.31.0
