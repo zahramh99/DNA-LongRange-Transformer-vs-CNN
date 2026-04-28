@@ -1,12 +1,11 @@
 # DNA-LongRange-Transformer-vs-CNN
 
-**Are Transformers Better Than CNNs for Mutation Effect Prediction? A Rigorous Benchmark**
-
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
----
+> **📌 Project Status:** Active development – work in progress.  
+> Due to internet restrictions and limited computational resources in Iran, full training and final evaluation are ongoing. Current codebase is complete and ready for execution. Results and final benchmarks will be updated upon completion.  
 
 ## 🔬 Research Question
 
